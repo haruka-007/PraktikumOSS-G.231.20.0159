@@ -1,1 +1,2 @@
-Annisa Agung Isa Prajitno : G.231.20.0159 : Semarang
+Mata Kuliah : Open Source System 
+Catatan : Praktikum dengan menggunakan GIT
